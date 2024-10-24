@@ -12,4 +12,4 @@ Modified splash.img/logo.bin to be funny for Xiaomi devices
 If you can't test them, add it to the untested list below:
 
 # Untested list
-- gale (because I didn't even make a funny logo.bin for it yet)
+- gale+gust (because I didn't even make a funny logo.bin for it yet)
