@@ -7,6 +7,7 @@ Modified splash.img/logo.bin to be funny for Xiaomi devices
 - 2.1: If the phone has multiple codenames (like the Redmi 13C with "gale" and "gust), name the folder "1codename+2codename" (example: gale+gust)
 - 3: Upload contents of modified splash.img/logo.bin and then delete dummy.txt
 - 3.1: Please modify logo.bin's with [LogoBuilder](https://xdaforums.com/attachments/logobuilder_v1-6-zip.3206706/)
+- 3.2: Make the .bin or .img file and post it to built directory. (example: codename_logo.bin/codename_splash.img) 1codename+2codename rule applies!!! (example: gale+gust_logo.bin)
 - 4: Make a pull request
 
 ### IMPORTANT NOTE: Test your splash.img or logo.bin before contributing!!!
