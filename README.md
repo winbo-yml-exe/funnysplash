@@ -11,8 +11,7 @@ Modified splash.img/logo.bin to be funny for Xiaomi devices
 - 4: Make a pull request
 
 ### IMPORTANT NOTE: Test your splash.img or logo.bin before contributing!!!
-If you can't test them, add it to the untested list below:
-If you CAN test them. add it to the tested list.
+If you can't test them, add it to the untested list below, otherwise add it to the tested list:
 
 # Untested list
 - none
